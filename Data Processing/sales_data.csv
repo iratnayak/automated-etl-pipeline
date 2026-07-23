@@ -1,0 +1,6 @@
+Order_ID,Product,Quantity,Price,Date
+101,Laptop,2,1200.50,2023-01-10
+102,Mouse,,25.00,2023-01-11
+103,Keyboard,1,45.00,
+104,Monitor,2,,2023-01-13
+105,Laptop,1,1200.50,2023-01-14
